@@ -41,7 +41,10 @@
   },
   "dependencies": {
     "react": "^0.13.1",
+    "react-datagrid": "^1.2.13",
     "react-router": "^0.13.2",
+    "react-split-pane": "^0.1.7",
+    "react-treeview": "^0.3.12",
     "reflux": "^0.2.7"
   },
   "jest": {
